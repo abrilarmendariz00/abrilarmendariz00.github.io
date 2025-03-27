@@ -7,3 +7,8 @@
     font-family: cozyfont;
     src: url("fonts/Caveat.ttf");
 }
+h1
+{
+    font-family: cozyfont;
+    text-align: center;
+}
