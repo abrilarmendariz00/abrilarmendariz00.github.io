@@ -1,1 +1,9 @@
-
+:root
+{
+    background-color: coral;
+}
+@font-face
+{
+    font-family: cozyfont;
+    src: url("fonts/Caveat.ttf");
+}
