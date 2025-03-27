@@ -5,10 +5,11 @@
 @font-face
 {
     font-family: cozyfont;
-    src: url("fonts/Caveat.ttf");
+    src: url("//font/Caveat.ttf");
 }
 h1
 {
     font-family: cozyfont;
     text-align: center;
+    color: pink;
 }
