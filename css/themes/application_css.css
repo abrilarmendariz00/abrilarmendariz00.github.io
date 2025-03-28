@@ -16,6 +16,7 @@ h1
 h2
 {
     color: crimson;
+    font-family: cozyfont;
 }
 nav 
 {
@@ -27,13 +28,14 @@ nav ul li
     font-size: 16pt;
     font-family: cozyfont;
 }
-.side
+table
 {
-    float: center;
-    width: 20px;
+    padding: 90px 350px;
+    border: 2px dashed red;
 }
-.side p
+td
 {
-    float: both;
-    margin: right;
+    padding: 10px;
+    border:2px dashed red;
+    border-collapse: collapse;
 }
