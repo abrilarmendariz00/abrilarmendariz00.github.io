@@ -5,11 +5,35 @@
 @font-face
 {
     font-family: cozyfont;
-    src: url("//font/Caveat.ttf");
+    src: url("css/fonts/Caveat.ttf");
 }
 h1
 {
     font-family: cozyfont;
     text-align: center;
-    
+    color: brown;
+}
+h2
+{
+    color: crimson;
+}
+nav 
+{
+    margin: auto;
+}
+nav ul li
+{
+    margin: auto;
+    font-size: 16pt;
+    font-family: cozyfont;
+}
+.side
+{
+    float: center;
+    width: 20px;
+}
+.side p
+{
+    float: both;
+    margin: right;
 }
