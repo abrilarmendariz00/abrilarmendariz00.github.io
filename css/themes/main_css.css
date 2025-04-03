@@ -1,0 +1,16 @@
+:root 
+{
+    background-color: lightslategray;
+}
+@font-face 
+{
+    font-family: Mainfont;
+    src: url("fonts/Arvo.ttf");
+}
+h1 
+{
+    color: white;
+    background-color:gray;
+    margin-right: 420px;
+    font-family: Mainfont;
+}

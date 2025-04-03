@@ -1,0 +1,41 @@
+:root
+{
+    background-color: peachpuff;
+}
+@font-face
+{
+    font-family: cozyfont;
+    src: url("fonts/Caveat.ttf");
+}
+h1
+{
+    font-family: cozyfont;
+    text-align: center;
+    color: brown;
+}
+h2
+{
+    color: crimson;
+    font-family: cozyfont;
+}
+nav 
+{
+    margin: auto;
+}
+nav ul li
+{
+    margin: auto;
+    font-size: 16pt;
+    font-family: cozyfont;
+}
+table
+{
+    padding: 90px 350px;
+    border: 2px dashed red;
+}
+td
+{
+    padding: 10px;
+    border:2px dashed red;
+    border-collapse: collapse;
+}
