@@ -1,16 +1,18 @@
 :root 
 {
     background-color: lightslategray;
+    align-items: center;
 }
 @font-face 
 {
     font-family: Mainfont;
-    src: url("themes//fonts/OpenSans");
+    src: url("fonts/Arvo.ttf");
 }
 h1 
 {
     color: white;
     background-color:gray;
+    font-size: 25px;
     margin-right: 420px;
     font-family: Mainfont;
 }
