@@ -1,7 +1,6 @@
 :root 
 {
     background-color: lightslategray;
-    align-items: center;
 }
 @font-face 
 {
@@ -16,3 +15,9 @@ h1
     margin-right: 420px;
     font-family: Mainfont;
 }
+h2 
+{
+    font-family: Mainfont;
+    color: gray;
+}
+
