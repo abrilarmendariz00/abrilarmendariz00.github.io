@@ -7,6 +7,11 @@
     font-family: Mainfont;
     src: url("fonts/Arvo.ttf");
 }
+@font-face 
+{
+    font-family: Subfont;
+    src: url("fonts/OpenSans.ttf");
+}
 h1 
 {
     color: white;
@@ -24,3 +29,9 @@ p
 {
     font-family: Mainfont;
 }
+thead, th
+{
+    font-family: Subfont;
+    color: red;
+}
+
