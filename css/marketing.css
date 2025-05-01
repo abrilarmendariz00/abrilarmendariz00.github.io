@@ -7,17 +7,26 @@ h1
 {
     color: red;
     font-size: 25px;
-    float: center;
+    text-align: center;
     
 }
 h2 
 {
-    
+    text-align: center;
     color: darkred;
+}
+h3 
+{
+    text-align: center; 
+}
+h1, h3 
+{
+    border: 2px solid darkred;
+    border: collapse;
 }
 p
 {
-    
+    text-align: center;
 }
 thead, th
 {
