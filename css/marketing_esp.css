@@ -1,0 +1,27 @@
+:root 
+{
+    background-color: whitesmoke;
+}
+
+h1 
+{
+    color: red;
+    font-size: 25px;
+    float: center;
+    
+}
+h2 
+{
+    
+    color: darkred;
+}
+p
+{
+    
+}
+thead, th
+{
+    
+    color: darkred;
+}
+
