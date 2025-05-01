@@ -1,0 +1,37 @@
+:root 
+{
+    background-color: lightslategray;
+}
+@font-face 
+{
+    font-family: Mainfont;
+    src: url("fonts/Arvo.ttf");
+}
+@font-face 
+{
+    font-family: Subfont;
+    src: url("fonts/OpenSans.ttf");
+}
+h1 
+{
+    color: white;
+    background-color:gray;
+    font-size: 25px;
+    margin-right: 420px;
+    font-family: Mainfont;
+}
+h2 
+{
+    font-family: Mainfont;
+    color: gray;
+}
+p
+{
+    font-family: Mainfont;
+}
+thead, th
+{
+    font-family: Subfont;
+    color: red;
+}
+
