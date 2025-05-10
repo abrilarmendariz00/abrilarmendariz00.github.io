@@ -37,6 +37,14 @@ img
     height: 300px;
     box-align: center;
 }
+a 
+{
+    border: 2px dotted darkred;
+    padding: 2px;
+    margin-left: 635px;
+    margin-right: 600px;
+    font-family: Mainfont;
+}
 p
 {
     text-align: center;
