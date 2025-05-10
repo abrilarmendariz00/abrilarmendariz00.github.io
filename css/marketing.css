@@ -2,22 +2,29 @@
 {
     background-color: peachpuff;
 }
+@font-face
+{
+    font-family: Mainfont;
+    src: url("fonts/Rubik.ttf");
+}
 
 h1 
 {
     color: red;
     font-size: 25px;
     text-align: center;
-    
+    font-family: Mainfont;
 }
 h2 
 {
     text-align: center;
     color: darkred;
+    font-family: Mainfont;
 }
 h3 
 {
     text-align: center; 
+    font-family: Mainfont;
 }
 h1, h3 
 {
@@ -34,6 +41,7 @@ img
 p
 {
     text-align: center;
+    font-family: Mainfont;
 }
 
 thead, th
