@@ -1,6 +1,6 @@
 :root 
 {
-    background-color: whitesmoke;
+    background-color: peachpuff;
 }
 
 h1 
@@ -22,12 +22,20 @@ h3
 h1, h3 
 {
     border: 2px solid darkred;
-    border: collapse;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+img 
+{
+    height: 300px;
+    box-align: center;
 }
 p
 {
     text-align: center;
 }
+
 thead, th
 {
     
