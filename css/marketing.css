@@ -7,7 +7,6 @@
     font-family: Mainfont;
     src: url("fonts/Rubik.ttf");
 }
-
 h1 
 {
     color: red;
@@ -43,7 +42,6 @@ p
     text-align: center;
     font-family: Mainfont;
 }
-
 thead, th
 {
     
